@@ -11,7 +11,8 @@ body {
 }
 
 #form-outer {
-  background-color: #BADDF5;
+  background-color: lightblue;
+  /* background-color: #BADDF5; */
   margin: 0 auto;
   border-radius: 60px;
   width: 65%;
